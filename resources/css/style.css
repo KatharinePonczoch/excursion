@@ -11,7 +11,7 @@ h1 {
   margin: auto;
 }
 #right {
-  align-content: right;
+  text-align: right;
 }
 
 h4 {
